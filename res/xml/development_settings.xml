@@ -30,6 +30,12 @@
             android:summary="@string/summary_placeholder"
             android:fragment="com.android.settings.applications.ProcessStatsSummary" />
 
+        <Preference
+            android:key="running_apps"
+            android:title="@string/runningservices_settings_title"
+            android:summary="@string/runningservices_settings_summary"
+            android:fragment="com.android.settings.applications.RunningServices" />
+
         <!--<com.android.settings.BugreportPreference
             android:key="bugreport"
             android:title="@*android:string/bugreport_title"
@@ -69,12 +75,6 @@
             android:title="@string/oem_unlock_enable"
             android:summary="@string/oem_unlock_enable_summary"
             settings:useAdditionalSummary="true" />
-
-        <Preference
-            android:key="running_apps"
-            android:title="@string/runningservices_settings_title"
-            android:summary="@string/runningservices_settings_summary"
-            android:fragment="com.android.settings.applications.RunningServices" />
 
         <Preference
             android:key="convert_to_file_encryption"

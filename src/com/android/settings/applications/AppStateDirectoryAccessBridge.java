@@ -39,8 +39,8 @@ public class AppStateDirectoryAccessBridge extends AppStateBaseBridge {
     private static final String TAG = "DirectoryAccessBridge";
 
     // TODO(b/72055774): set to false once feature is ready (or use Log.isLoggable)
-    static final boolean DEBUG = true;
-    static final boolean VERBOSE = true;
+    static final boolean DEBUG = false;
+    static final boolean VERBOSE = false;
 
     public AppStateDirectoryAccessBridge(ApplicationsState appState, Callback callback) {
         super(appState, callback);

@@ -62,8 +62,8 @@
     <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
     <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente al introducir el PIN/contraseña correctos</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Información de carga en pantalla de bloqueo</string>
-    <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Información de carga en la pantalla de bloqueo</string>
+    <string name="lockscreen_battery_info_summary">Mostrar la temperatura y otros datos de la batería en la pantalla de bloqueo mientras se está cargando</string>
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Sonido de la captura de pantalla</string>
     <!-- meh ganeshi4u -->
@@ -127,7 +127,7 @@
     <!-- Settings categories -->
     <string name="statusbar_category_title">Barra de estado</string>
     <string name="buttons_category_title">Botones</string>
-    <string name="misc_category_title">Misceláneo</string>
+    <string name="misc_category_title">Misceláneas</string>
     <string name="theme_category_title">Tema del sistema</string>
     <!-- Button brightness -->
     <string name="button_backlight_options_category">Ajustes de retroiluminación</string>
@@ -463,7 +463,7 @@
     <string name="qs_footer_warnings_title">Advertencias al pie de página de Ajustes Rápidos</string>
     <string name="qs_footer_warnings_summary">Mostrar una advertencia en la parte inferior del panel de ajustes rápidos cuando la red se supervisa mediante aplicaciones externas o vpn</string>
     <!-- Navbar Animation -->
-    <string name="pixel_navbar_anim_title">Animación de barra de navegación pixel</string>
+    <string name="pixel_navbar_anim_title">Animación pixel en barra de navegación</string>
     <!-- Accent Picker -->
     <string name="accent_picker_dialog_title">Seleccione un color de acento</string>
     <string name="theme_accent_picker_title">Color de acento</string>
@@ -480,7 +480,7 @@
     <string name="fprint_sucess_vib_summary">Vibrar cuando la autenticación con la huella es correcta</string>
     <!-- Expanded desktop -->
     <string name="expanded_desktop_pref_title">Escritorio extendido</string>
-    <string name="expanded_desktop_pref_summary">Ajustar escritorio espandido globalmente o por app</string>
+    <string name="expanded_desktop_pref_summary">Ajustar el escritorio extendido globalmente o para cada aplicación</string>
     <string name="expanded_hide_nothing">No ocultar nada</string>
     <string name="expanded_hide_status">Ocultar barra de estado</string>
     <string name="expanded_hide_navigation">Ocultar barra de navegación</string>
@@ -508,8 +508,8 @@
     <string name="selinux_status_permissive">Permisivo</string>
     <string name="selinux_status_enforcing">Obligatorio</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">Icono VoLTE</string>
-    <string name="volte_icon_summary">Mostrar icono VoLTE (necesita reiniciar SystemUI para que surta efecto)</string>
+    <string name="volte_icon_title">Icono de conexón VoLTE</string>
+    <string name="volte_icon_summary">Mostrar el icono VoLTE (Necesario reiniciar en caliente para mostrarlo)</string>
     <!-- Torch Power button gestures -->
     <string name="double_tap_power_flashlight_screen_title">Activar la linterna</string>
     <string name="double_tap_power_flashlight_title">Activar la linterna con el boton de encendido</string>
@@ -525,7 +525,7 @@
     <string name="qs_show_brightness_title">Barra de brillo</string>
     <string name="qs_show_brightness_summary">Opción para mostrar u ocultar el regulador de brillo de QS</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">Activar modo de una sola mano</string>
+    <string name="one_hand_mode_title">Modo de una sola mano</string>
     <string name="one_hand_mode_summary">Permitir deslizar a derecha o izquierda en la barra de navegación para activar</string>
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_value_title">Reducir brillo si esta activada la luz nocturna</string>

@@ -140,10 +140,10 @@
     <string name="button_backlight_on_touch_only_summary">La retroiluminación de los botones solo se encenderá cuando los botones sean presionados en vez de continuamente. El \"periodo de retroiluminación\" sigue funcionando con esta característica.</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Control multimedia</string>
-    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada, una pulsación larga de los controles de volumen, avanzará o retrocederá las canciones</string>
+    <string name="volume_button_music_control_summary">Con la pantalla apagada, una pulsación larga en los botones de volumen, avanzará o retrocederá las canciones</string>
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Despertar con botones de volumen</string>
-    <string name="volume_rocker_wake_summary">Encender el dispositivo presionando los botones de volumen</string>
+    <string name="volume_rocker_wake_summary">Activar el dispositivo presionando los botones de volumen</string>
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">Configuración de la barra de navegación</string>
     <!-- Heads up -->
@@ -180,10 +180,10 @@
     <!-- Clear all recents -->
     <string name="aosp_recents_title">Recientes de AOSP</string>
     <string name="aosp_recents_title_summary">Configuración de las aplicaciones recientes, botón de borrar todo</string>
-    <string name="show_clear_all_recents_button_title">FAB de borrar todo</string>
-    <string name="show_clear_all_recents_button_summary_on">Mostrar un FAB de Limpiar todo</string>
+    <string name="show_clear_all_recents_button_title">Botón para borrar todo</string>
+    <string name="show_clear_all_recents_button_summary_on">Mostrar un botón para limpiar todos los recientes</string>
     <string name="show_clear_all_recents_button_summary_off">Mostrar eliminar todos de AOSP</string>
-    <string name="recents_clear_all_location_title">Posición de botón de borrar todo</string>
+    <string name="recents_clear_all_location_title">Posición del botón de borrar todo</string>
     <string name="recents_clear_all_location_top_right">Superior derecha</string>
     <string name="recents_clear_all_location_top_left">Superior izquierda</string>
     <string name="recents_clear_all_location_top_center">Superior centrado</string>
@@ -230,7 +230,7 @@
     <string name="systemui_theme_style_dark">Oscuro</string>
     <string name="system_theme_style_black">Negro</string>
     <string name="applying_theme_toast">Aplicando tema, por favor espere...</string>
-    <string name="theme_applied_toast">¡Tema aplicado!</string>
+    <string name="theme_applied_toast">Tema aplicado</string>
     <string name="disable_themes_installed_title">Los temas del sistema no están disponibles para evitar conflictos con Substratum. Desinstala Substratum si deseas usar estos temas.</string>
     <string name="disable_accents_installed_title">El selector de acentos no está disponible para evitar conflictos con Substratum. Desinstala si deseas utilizar el selector de fuentes.</string>
     <!-- Weather - OmniJaws Settings -->
@@ -244,7 +244,7 @@
     <string name="header_weather_title">Vista del clima en el encabezado</string>
     <string name="header_weather_summary">Habilitar clima en la cabecera del panel de notificaciones</string>
     <string name="weather_icon_pack_title">Paquete de iconos del clima</string>
-    <string name="weather_icon_pack_note">Nota\u003a puedes instalar nuevos paquetes de iconos desde la PlayStore buscando \"Chronus icons\"</string>
+    <string name="weather_icon_pack_note">Nota\u003a puedes instalar nuevos paquetes de iconos desde PlayStore buscando \"Chronus icons\"</string>
     <!-- Network traffic -->
     <string name="traffic_title">Indicadores de tráfico</string>
     <string name="network_traffic_title">Tráfico de red</string>
@@ -252,8 +252,8 @@
     <string name="show_network_traffic_up">Subida</string>
     <string name="show_network_traffic_down">Bajada</string>
     <string name="show_network_traffic_all">Subida y Bajada</string>
-    <string name="network_traffic_statusbar_title">Trafico de red en la barra de estado</string>
-    <string name="network_traffic_qs_statusbar_title">Trafico de red en la barra de ajustes rápidos</string>
+    <string name="network_traffic_statusbar_title">Tráfico de red en la barra de estado</string>
+    <string name="network_traffic_qs_statusbar_title">Tráfico de red en la barra de ajustes rápidos</string>
     <string name="network_traffic_sb_state_title">Mostrar tráfico de red en la barra de estado</string>
     <string name="network_traffic_qs_state_title">Mostrar tráfico de red en la barra de ajustes rápidos</string>
     <string name="network_traffic_autohide_threshold_title">Umbral mínimo de red para auto ocultarse (KB/s)</string>
@@ -279,9 +279,9 @@
     <string name="lockscreen_weather_show_temp_summary">Muestra la temperatura actual de la ciudad a la derecha de la imagen</string>
     <!-- Clock and Date -->
     <string name="status_bar_clock">Reloj y fecha</string>
-    <string name="status_bar_clock_summary">Configurar el reloj de la barra de estado y forrmato de la fecha</string>
-    <string name="status_bar_clock_title">Statusbar clock settings</string>
-    <string name="status_bar_clock_show">Mostrar hora y fecha</string>
+    <string name="status_bar_clock_summary">Configurar el reloj de la barra de estado y formato de la fecha</string>
+    <string name="status_bar_clock_title">Configuración del reloj</string>
+    <string name="status_bar_clock_show">Mostrar fecha y hora</string>
     <string name="status_bar_clock_style_title">Estilo de reloj</string>
     <string name="status_bar_clock_style_right">Derecha</string>
     <string name="status_bar_clock_style_center">Centrado</string>
@@ -293,7 +293,7 @@
     <string name="status_bar_am_pm_hidden">Oculto (por defecto)</string>
     <string name="clock_seconds_display">Mostrar segundos</string>
     <string name="clock_date_display">Fecha</string>
-    <string name="clock_date_display_summary">Muestra la fecha personalizada antes del reloj</string>
+    <string name="clock_date_display_summary">Mostrar la fecha antes del reloj</string>
     <string name="clock_date_display_none">No mostrar</string>
     <string name="clock_date_display_small">Tamaño de letra pequeña</string>
     <string name="clock_date_display_normal">Tamaño de letra normal</string>
@@ -301,21 +301,21 @@
     <string name="clock_date_style_normal">Normal</string>
     <string name="clock_date_style_lowercase">Minúscula</string>
     <string name="clock_date_style_uppercase">Mayúscula</string>
-    <string name="clock_date_format_custom">Formato de java personalizado</string>
+    <string name="clock_date_format_custom">Formato java personalizado</string>
     <string name="clock_date_format">Formato de la fecha</string>
     <string name="clock_date_string_edittext_title">Debe ser un formato de fecha, por ejemplo: dd/MM/yy</string>
     <string name="clock_date_string_edittext_summary">Introduzca texto</string>
-    <string name="lockscreen_clock_title">Lockscreen clock settings</string>
-    <string name="lockscreen_clock_widget_title">Clock widget</string>
-    <string name="lockscreen_clock_widget_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (Bold)</string>
+    <string name="lockscreen_clock_title">Configuración del reloj</string>
+    <string name="lockscreen_clock_widget_title">Reloj</string>
+    <string name="lockscreen_clock_widget_summary">Mostrar el reloj en la pantalla de bloqueo</string>
+    <string name="lockscreen_clock_selection_title">Estilo del reloj</string>
+    <string name="lockscreen_clock_selection_digital">Por defecto</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digital (Intenso)</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (Bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (Alt)</string>
-    <string name="lockscreen_clock_selection_text">Text (Android Q)</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (Intenso)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Sammy en color</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy en color (Otro)</string>
+    <string name="lockscreen_clock_selection_text">Texto (Android Q)</string>
     <!--Double Tap to Sleep Lockscreen-->
     <string name="double_tap_sleep_lockscreen">Toca dos veces para apagar la pantalla</string>
     <!--Quick pulldown-->
@@ -334,7 +334,7 @@
     <string name="lockscreen_vibrate_enabled_head">Vibrar al desbloquear</string>
     <!-- Battery Styles -->
     <string name="battery_style_title">Estilo del icono de la batería</string>
-    <string name="battery_style_summary">Personalización de icono de la batería, mostrar u ocultar el porcentaje de batería</string>
+    <string name="battery_style_summary">Personalizar el icono de la batería y su porcentaje</string>
     <string name="battery_style_port">Vertical</string>
     <string name="battery_style_land">Apaisada</string>
     <string name="battery_style_circle">Círculo</string>
@@ -346,7 +346,7 @@
     <string name="show_battery_percent_title">Mostrar porcentaje de batería</string>
     <string name="battery_style_category_title">Icono de batería</string>
     <string name="battery_percent_none">No mostrar</string>
-    <string name="battery_percent_outside">Mostrar al lado del icono</string>
+    <string name="battery_percent_outside">Mostrar junto al icono</string>
     <string name="battery_percent_inside">Mostrar dentro del ícono</string>
     <!-- App Ops Categories -->
     <string name="app_ops_cat_location">Ubicación</string>
@@ -411,8 +411,8 @@
     <string name="app_ops_use_body_sensors">sensores corporales</string>
     <string name="app_ops_read_cell_broadcasts">transmisiones móviles</string>
     <string name="app_ops_mock_location">simular localización</string>
-    <string name="app_ops_read_external_storage">leer alm. ext.</string>
-    <string name="app_ops_write_external_storage">escribir alm. ext.</string>
+    <string name="app_ops_read_external_storage">leer almacenamiento externo</string>
+    <string name="app_ops_write_external_storage">escribir almacenamiento externo</string>
     <string name="app_ops_turn_on_screen">encender la pantalla</string>
     <string name="app_ops_get_accounts">cuentas del dispositivo</string>
     <string name="app_ops_run_in_background">ejecutar en segundo plano</string>
@@ -429,7 +429,7 @@
     <string name="app_ops_accept_handover">aceptar la entrega</string>
     <string name="app_ops_manage_ipsec_tunnels">administrar túneles ip</string>
     <string name="app_ops_start_foreground">inicio en primer plano</string>
-    <string name="app_ops_bluetooth_scan">escaneo bluetooth</string>
+    <string name="app_ops_bluetooth_scan">escaneo de bluetooth</string>
     <string name="app_ops_boot_completed">inicio automático</string>
     <!-- App ops detail -->
     <string name="app_ops_entry_summary"><xliff:g id="op">%1$s</xliff:g> (usado <xliff:g id="count">%2$s</xliff:g>)</string>
@@ -443,24 +443,24 @@
     <string name="app_ops_reset_confirm_title">Confirmar el restablecimiento de contadores</string>
     <string name="app_ops_reset_confirm_mesg">¿Estás seguro de que deseas restablecer los contadores?</string>
     <string name="app_ops_settings_title">Permisos de Aplicaciones</string>
-    <string name="enlighten">Estos cambios sólo se aplican al estilo de Recientes AOSP (superior a Oreo) y no funcionará en vista de recientes de Pie</string>
+    <string name="enlighten">Estos cambios se aplican al estilo de Recientes AOSP y no funcionarán en la vista de recientes de Pie</string>
     <!-- Lock screen visualizer -->
     <string name="lockscreen_visualizer_title">Visualizador músical</string>
-    <string name="lockscreen_visualizer_summary">Mostrar visualizador en la pantalla de bloqueo cuando la música se esta reproduciendo</string>
+    <string name="lockscreen_visualizer_summary">Mostrar visualizador en la pantalla de bloqueo cuando la música se está reproduciendo</string>
     <string name="battery_stats_reset">Resetear estadísticas</string>
-    <string name="battery_stats_message">Las estadísticas de la batería van a restablecerse</string>
+    <string name="battery_stats_message">Las estadísticas de la batería se van a restablecer</string>
     <string name="ok_string">Vale</string>
     <!-- Quick Setting tile titles -->
     <string name="qs_tile_title_visibility_title">Título de ajuste rápido</string>
-    <string name="qs_tile_title_visibility_summary">Mostrar titulo debajo de cada ajuste rápido, (Requiere reiniciar la interfaz de usuario)</string>
+    <string name="qs_tile_title_visibility_summary">Mostrar el titulo debajo de cada ajuste rápido, (necesita reiniciar la interfaz de usuario)</string>
     <!-- Pocket judge -->
     <string name="pocket_judge_title">Detección de bolsillo</string>
-    <string name="pocket_judge_summary">Bloquear la pantalla y botones cuando el dispositivo esta en el bolsillo</string>
+    <string name="pocket_judge_summary">Bloquear la pantalla y botones cuando el dispositivo está en el bolsillo</string>
     <!-- Auto-brightness toggle -->
     <string name="brightness_icon_title">Icono de brillo automático</string>
     <string name="brightness_icon_summary">Muestra un icono a la derecha de la barra de brillo para ajustar el brillo automático</string>
     <!-- QS footer warnings -->
-    <string name="qs_footer_warnings_title">Advertencias al pie de página de Ajustes Rápidos</string>
+    <string name="qs_footer_warnings_title">Advertencias bajo los Ajustes Rápidos</string>
     <string name="qs_footer_warnings_summary">Mostrar una advertencia en la parte inferior del panel de ajustes rápidos cuando la red se supervisa mediante aplicaciones externas o vpn</string>
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Animación pixel en barra de navegación</string>
@@ -480,12 +480,12 @@
     <string name="fprint_sucess_vib_summary">Vibrar cuando la autenticación con la huella es correcta</string>
     <!-- Expanded desktop -->
     <string name="expanded_desktop_pref_title">Escritorio extendido</string>
-    <string name="expanded_desktop_pref_summary">Ajustar el escritorio extendido globalmente o para cada aplicación</string>
+    <string name="expanded_desktop_pref_summary">Ajustar el escritorio extendido globalmente o por aplicación</string>
     <string name="expanded_hide_nothing">No ocultar nada</string>
     <string name="expanded_hide_status">Ocultar barra de estado</string>
     <string name="expanded_hide_navigation">Ocultar barra de navegación</string>
     <string name="expanded_hide_both">Ocultar ambas</string>
-    <string name="expanded_nothing_to_show">Para agregar una configuración personalizada por cada aplicación para el escritorio expandido, deshabilita la opción \"Habilitado para todos\"</string>
+    <string name="expanded_nothing_to_show">Para agregar una configuración personalizada para cada aplicación, deshabilita la opción \"Habilitado para todos\"</string>
     <string name="expanded_desktop_state">Estado de escritorio extendido</string>
     <string name="expanded_enabled_for_all">Habilitado para todas</string>
     <string name="expanded_user_configurable">Configurable por el usuario</string>
@@ -501,7 +501,7 @@
     <string name="notification_light_title">Led de notificación</string>
     <!-- Battery saver night mode toggle -->
     <string name="battery_saver_night_mode_title">Modo oscuro de ahorro de batería</string>
-    <string name="battery_saver_night_mode_summary">Cambiar tema de SystemUI al modo oscuro cuando se activa el ahorro de batería.</string>
+    <string name="battery_saver_night_mode_summary">Cambiar el tema al modo oscuro cuando se activa el ahorro de batería.</string>
     <!-- Selinux Status -->
     <string name="selinux_status">Estado de SELinux</string>
     <string name="selinux_status_disabled">Desabilitado</string>
@@ -514,12 +514,12 @@
     <string name="double_tap_power_flashlight_screen_title">Activar la linterna</string>
     <string name="double_tap_power_flashlight_title">Activar la linterna con el boton de encendido</string>
     <string name="torch_power_button_gesture_none">Desactivado</string>
-    <string name="torch_power_button_gesture_dt">Pulsar doblemente el botón de encendido para encender la linterna</string>
+    <string name="torch_power_button_gesture_dt">Pulsar dos veces el botón de encendido para encender la linterna</string>
     <string name="torch_power_button_gesture_lp">Pulsación larga del botón de encendido para encender la linterna</string>
     <string name="full_gesture_mode_title">Activar el modo de gesto completo</string>
-    <string name="full_gesture_mode_summary">Este modo desactivará también el botón de retroceder y serás capaz de realizar una acción de retroceso deslizando hacia la izquierda en la barra de navegación. Un deslizamiento hacia la derecha seguirá llevándote a la última aplicacion, y con un deslizamiento hacia la izquierda para moverte entre las apps. Para ir a inicio, simplemente toca en cualquier espacio vacío de la navbar, no sólo en el botón de inicio.</string>
+    <string name="full_gesture_mode_summary">Este modo desactiva también el botón de retroceso y podrás realizar esa acción deslizando hacia la izquierda en la barra de navegación. Un deslizamiento hacia la derecha seguirá mostrando la última aplicacion. Un deslizamiento hacia la izquierda te moverá entre aplicaciones. Para ir a inicio, toca en cualquier espacio vacío de la barra o en el botón de inicio.</string>
     <string name="full_gesture_mode_dt2s_title">Activar doble toque para dormir</string>
-    <string name="full_gesture_mode_dt2s_summary">Tocar en un espacio vacío de la barra de la navegación para apagar la pantalla.</string>
+    <string name="full_gesture_mode_dt2s_summary">Tocar en un espacio vacío de la barra de navegación para apagar la pantalla.</string>
     <string name="brightness_slider_bottom_title">Barra de brillo en la parte inferior</string>
     <string name="brightness_slider_bottom_summary">Mostrar barra de brillo en la parte inferior del panel de ajustes rápidos</string>
     <string name="qs_show_brightness_title">Barra de brillo</string>
@@ -528,7 +528,7 @@
     <string name="one_hand_mode_title">Modo de una sola mano</string>
     <string name="one_hand_mode_summary">Permitir deslizar a derecha o izquierda en la barra de navegación para activar</string>
     <!-- Advanced night mode brightness -->
-    <string name="night_brightness_value_title">Reducir brillo si esta activada la luz nocturna</string>
+    <string name="night_brightness_value_title">Reducir brillo si está activada la luz nocturna</string>
     <string name="night_auto_value_disabled">Desabilitado</string>
     <string name="night_auto_value_min">Brillo mínimo</string>
     <string name="night_bright_low">Brillo bajo</string>
@@ -554,6 +554,6 @@
     <!-- About phone, uptime. Deep sleep ratio since last reboot. -->
     <string name="status_deep_sleep">(Sueño profundo: %1$d%2$s)</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_info_title">Items debajo del reloj</string>
+    <string name="lockscreen_info_summary">Mostrar la fecha, el clima, alarmas y más en la pantalla de bloqueo</string>
 </resources>
